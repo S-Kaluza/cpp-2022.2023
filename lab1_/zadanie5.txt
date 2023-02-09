@@ -1,0 +1,6 @@
+Po wpisaniu litery h pojawiło się 0.
+Po wpisaniu liczby zmiennoprzecinkowej 3.2 obcieło część ułamkową i wyświetliło 3, tak samo z innymi liczbami.
+Liczba ujemna pozostała bez zmian.
+Po wpisaniu ciągu znaków pokazało się 0.
+Duża liczba z kolei została zaokrąglona do 2147483647.
+
